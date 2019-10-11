@@ -1,0 +1,16 @@
+__pycache__
+.pytest_cache
+*.pyc
+.vscode
+*.log
+logs/
+docs/
+test/
+Cache/*
+sstp_serverinfo
+mifi_info_from_sql_to_redis.py
+insert_data_mock.py
+history.json
+history.xls
+test.*
+.mypy_cache/
